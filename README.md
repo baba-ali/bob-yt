@@ -1,4 +1,3 @@
-# bob-yt
 YouTube playlists built from BoB comments area
 
 These are extracted from the comments area of www.bolhabrasil.org (AKA BoB)
